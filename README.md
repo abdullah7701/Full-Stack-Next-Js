@@ -53,3 +53,7 @@ Welcome to my awesome Next.js full-stack blog web app! This app allows users to 
 2. Reference
 Lama dev youtube channel
 <a>https://youtu.be/vCOSTG10Y4o?si=NNkA-yiCwAqGzmwr</a>
+
+
+LIVE HOSTING:
+https://full-stack-next-js-d67h.vercel.app/
